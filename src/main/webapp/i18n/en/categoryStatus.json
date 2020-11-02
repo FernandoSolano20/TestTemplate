@@ -1,0 +1,9 @@
+{
+  "testApp": {
+    "CategoryStatus": {
+      "null": "",
+      "ENABLED": "ENABLED",
+      "DISABLED": "DISABLED"
+    }
+  }
+}

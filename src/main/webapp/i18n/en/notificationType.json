@@ -1,0 +1,9 @@
+{
+  "testApp": {
+    "NotificationType": {
+      "null": "",
+      "APP": "APP",
+      "EMAIL": "EMAIL"
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "testApp": {
+    "ActionType": {
+      "null": "",
+      "CREATE": "CREATE",
+      "UPDATE": "UPDATE",
+      "DELETE": "DELETE"
+    }
+  }
+}

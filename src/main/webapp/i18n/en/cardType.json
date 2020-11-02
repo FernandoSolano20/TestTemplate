@@ -1,0 +1,10 @@
+{
+  "testApp": {
+    "CardType": {
+      "null": "",
+      "VISA": "VISA",
+      "MASTERCARD": "MASTERCARD",
+      "EXPRESS": "EXPRESS"
+    }
+  }
+}

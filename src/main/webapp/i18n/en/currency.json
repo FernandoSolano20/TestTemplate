@@ -1,0 +1,9 @@
+{
+  "testApp": {
+    "Currency": {
+      "null": "",
+      "USD": "USD",
+      "CRC": "CRC"
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "testApp": {
+    "ProyectType": {
+      "null": "",
+      "PROFITABLE": "PROFITABLE",
+      "NONPROFIT": "NONPROFIT"
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "testApp": {
+    "IdType": {
+      "null": "",
+      "PASSPORT": "PASSPORT",
+      "IDENTIFICATION": "IDENTIFICATION"
+    }
+  }
+}

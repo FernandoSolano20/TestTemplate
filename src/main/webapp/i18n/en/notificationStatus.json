@@ -1,0 +1,9 @@
+{
+  "testApp": {
+    "NotificationStatus": {
+      "null": "",
+      "SEEN": "SEEN",
+      "UNSEEN": "UNSEEN"
+    }
+  }
+}

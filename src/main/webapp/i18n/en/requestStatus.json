@@ -1,0 +1,11 @@
+{
+  "testApp": {
+    "RequestStatus": {
+      "null": "",
+      "SEND": "SEND",
+      "RECEIVED": "RECEIVED",
+      "ACCEPTED": "ACCEPTED",
+      "DENIED": "DENIED"
+    }
+  }
+}
